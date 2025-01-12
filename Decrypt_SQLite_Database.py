@@ -3,11 +3,6 @@ This will decrypt a encrypted sqlite database, such as signal if you
 have the config.json file.  It will add in the WAL file if it is in
 the same folder as the encrypted database.  
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
 Grumpy Old Men
 https[://]github.com/reineckejd
 https[://]github.com/Helpdesk8675
